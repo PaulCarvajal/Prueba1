@@ -9,6 +9,10 @@ public class PruebaN2 {
         int b = 9;
         
         System.out.println("alo" + a);
+        
+        
+        System.out.println("aaa");
+        
     }
     
 }
